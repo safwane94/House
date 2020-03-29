@@ -1,15 +1,14 @@
 {
-    "firstName": "Rack",
-    "lastName": "jackson",
-    "gender": "man",
-    "age": 24,
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
-    },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+    "beniMellalKhenifra": 0,
+    "casaSettat": 0,
+    "daraaTafilalet": 0,
+    "dakhlaOuedEdDahab": 0,
+    "fesMeknes": 0,
+    "guelmimOuedNoon": 0,
+    "laayouneSakiaElHamra": 0,
+    "marrakechSafi": 0,
+    "oriental": 0,
+    "rabatSaleKenitra": 0,
+    "soussMassa": 0,
+    "tangerTetouanAlHouceima": 0
 }
