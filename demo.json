@@ -1,14 +1,14 @@
 {
-    "beniMellalKhenifra": 0,
-    "casaSettat": 0,
-    "daraaTafilalet": 0,
-    "dakhlaOuedEdDahab": 0,
-    "fesMeknes": 0,
-    "guelmimOuedNoon": 0,
+    "beniMellalKhenifra": 10,
+    "casaSettat": 12,
+    "daraaTafilalet": 15,
+    "dakhlaOuedEdDahab": 15,
+    "fesMeknes": 20,
+    "guelmimOuedNoon": 1,
     "laayouneSakiaElHamra": 0,
-    "marrakechSafi": 0,
-    "oriental": 0,
+    "marrakechSafi": 90,
+    "oriental": 36,
     "rabatSaleKenitra": 0,
-    "soussMassa": 0,
-    "tangerTetouanAlHouceima": 0
+    "soussMassa": 13,
+    "tangerTetouanAlHouceima": 12
 }
